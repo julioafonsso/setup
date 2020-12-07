@@ -12,6 +12,8 @@ sh ./extension_visualcode.sh
 sh ./docker.sh
 sh ./docker_compose.sh
 sh ./spotify.sh
+sh ./aws-cli.sh
 sh ./serverless.sh
+
 
 
